@@ -1,2 +1,2 @@
 # GDPR_Article35_Compliance_Check_System
-The aim of this application is to develop an automated process to ensure the business process of companies compliance with Article 35 of GDPR.
+The aim of this application is to develop an automated process to ensure the business process of companies compliance with Article 35 of GDPR. The gap analysis shows explicitly where the gap regarding Article 35 occurs and where further measures should be taking to be compliant with GDPR. The work of the controller and processor should be simplified and designed more easily.
